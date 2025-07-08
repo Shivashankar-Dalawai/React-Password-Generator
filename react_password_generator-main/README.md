@@ -1,8 +1,8 @@
 
 ## React Password Generator
 
-Contributors
-Shivashankar
+Contributors:
+Shivashankar,
 Venkatesh
 
 
